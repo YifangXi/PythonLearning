@@ -9,3 +9,4 @@ fhandle.write(data)
 fhandle.close()
 url = "https://www.baidu.com"
 
+url2 = "https//www.sdu.edu.cn/"
